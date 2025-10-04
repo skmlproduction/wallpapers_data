@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f_001",
+    "title": "Dark Forest",
+    "tags": ["forest", "night"],
+    "ratio": 0.5625,
+    "src": {
+      "thumb": "https://i.pinimg.com/564x/fb/22/3a/fb223a4efef7e3db1f4c.jpg",
+      "w1080": "https://i.pinimg.com/originals/fb/22/3a/fb223a4efef7e3db1f4c.jpg"
+    },
+    "palette": ["#0a0a0a", "#2e7d32", "#90caf9"],
+    "authorName": "Pinterest"
+  },
+  {
+    "id": "f_002",
+    "title": "City Lights",
+    "tags": ["city", "night"],
+    "ratio": 0.5625,
+    "src": {
+      "thumb": "https://i.pinimg.com/564x/47/93/1d/47931d34b7df6a4d8a9a.jpg",
+      "w1080": "https://i.pinimg.com/originals/47/93/1d/47931d34b7df6a4d8a9a.jpg"
+    },
+    "palette": ["#1b1b1b", "#ffcc00", "#0044ff"],
+    "authorName": "Pinterest"
+  }
+]
