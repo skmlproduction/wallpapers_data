@@ -1,0 +1,13 @@
+[
+  {
+    "id": "city_001",
+    "title": "Night Skyline",
+    "tags": ["city", "night"],
+    "ratio": 0.5625,
+    "src": {
+      "thumb": "https://i.pinimg.com/564x/8c/64/13/8c6413e1b2f1.jpg",
+      "w1080": "https://i.pinimg.com/originals/8c/64/13/8c6413e1b2f1.jpg"
+    },
+    "palette": ["#1a237e", "#fbc02d", "#e0e0e0"]
+  }
+]
